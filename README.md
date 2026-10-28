@@ -5,7 +5,7 @@ Projeto acadêmico da disciplina Garantia da Qualidade de Software. Os testes de
 ## Casos de teste automatizados
 
 - **CT-001 — Busca por produto:** pesquisa por `Kindle Paperwhite` e verifica se os resultados incluem produtos relacionados.
-- **CT-002 — Busca por produto inexistente: pesquisa por Test123Guilherme e verifica se a mensagem de ausência de resultados é exibida.
+- **CT-002** — Busca por produto inexistente: pesquisa por Test123Guilherme e verifica se a mensagem de ausência de resultados é exibida.
 
 ## Pré-requisitos
 
