@@ -1,5 +1,10 @@
 # Automação de testes — Amazon Brasil
 
+Feito por:
+Nathan Kichel - 172519548
+Guilherme Fabricio - 172515236
+Gabriel Felipe de Faria - 942511265
+
 Projeto acadêmico da disciplina Garantia da Qualidade de Software. Os testes de interface são implementados em Python com Playwright e pytest.
 
 ## Casos de teste automatizados
