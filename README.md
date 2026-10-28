@@ -5,7 +5,7 @@ Projeto acadêmico da disciplina Garantia da Qualidade de Software. Os testes de
 ## Casos de teste automatizados
 
 - **CT-001 — Busca por produto:** pesquisa por `Kindle Paperwhite` e verifica se os resultados incluem produtos relacionados.
-- **CT-005 — Detalhes do produto:** abre um resultado correspondente e verifica a exibição do título e de um preço.
+- **CT-002 — Busca por produto inexistente: pesquisa por Test123Guilherme e verifica se a mensagem de ausência de resultados é exibida.
 
 ## Pré-requisitos
 
@@ -40,7 +40,7 @@ A opção `--headed` abre a janela do navegador durante a execução. Para execu
 Quando cada teste chega ao final com sucesso, uma captura de tela é gravada na pasta `evidencias/`:
 
 - `CT-001_busca_produto.png`
-- `CT-005_detalhes_produto.png`
+- `CT-002_busca_sem_resultados.png`
 
 ## Observações
 
